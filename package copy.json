@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@nuxt/bridge": "^0.10.1",
+    "@nuxt/typescript": "^2.6.1",
+    "nuxt": "^2.6.1",
+    "ts-node": "^8.1.0",
+    "typescript": "latest",
+    "vue-property-decorator": "^7.3.0",
+    "vuex-module-decorators": "latest"
+  },
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  }
+}
